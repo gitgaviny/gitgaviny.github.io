@@ -1,32 +1,28 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Ph.D. student in Speech and Audio Processing Lab, under the supervision of Prof. Tatsuya Kawahara. I received the Master degree from both Tianjin University and Japan Advanced Institute of Science and Technology. My research topics are speech emotion recognition and automatic speech recognition.
+I am a passionate Ph.D. student in Speech and Audio Processing Lab at Kyoto University, working under the guidance of Prof. Tatsuya Kawahara. My academic journey includes a Master's degree from both Tianjin University and Japan Advanced Institute of Science and Technology. My research primarily focuses on speech emotion recognition and automatic speech recognition, where I strive to combine technical expertise with real-world applications.
 
-Education
+**Education**
 ======
-(Candidate) Ph.D. in Kyoto University
-Speech emotion recognition
-Advisors: [Tatsuya Kawahara]([https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/))
+- **Ph.D. in Speech and Audio Processing** (Candidate)
+  - **University**: Kyoto University
+  - **Research Area**: Speech Emotion Recognition
+  - **Advisor**: [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/)
+- **Master's Degree in Speech Processing**
+  - **University**: Japan Advanced Institute of Science and Technology (JAIST)
+  - **Research Area**: Speech Emotion Recognition
+  - **Advisor**: [Prof. Okada Shogo](https://www.jaist.ac.jp/~okada-s/Profile.html)
+  - **University**: Tianjin University
+  - **Advisor**: [Prof. Longbiao Wang](https://cic.tju.edu.cn/faculty/wanglongbiao/wang.html)
 
-Master in JAIST
-Speech emotion recognition
-Advisors: [Okada Shogo]([https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb](https://www.jaist.ac.jp/~okada-s/Profile.html))
-
-Master in Tianjin University
-Speech emotion recognition
-Advisors: [Longbiao Wang]([https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb](https://cic.tju.edu.cn/faculty/wanglongbiao/wang.html))
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Contact me 
+**Contact Me**
 ------
-To reach out, please contact me: gaoym97@gmail.com.
+Feel free to reach out for collaborations or questions at: [gaoym97@gmail.com](mailto:gaoym97@gmail.com).
