@@ -1,7 +1,8 @@
 # main links links
 main:
   - title: "Publications"
-    url: "https://scholar.google.com/citations?hl=zh-CN&user=aHwAO4YAAAAJ"
+    url: /CV/
+    # url: "https://scholar.google.com/citations?hl=zh-CN&user=aHwAO4YAAAAJ"
 
   # - title: "Talks"
   #   url: /talks/    
