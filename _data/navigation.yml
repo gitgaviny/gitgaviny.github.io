@@ -16,8 +16,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: "https://drive.google.com/file/d/1_GUBIF2iuZXrJ9HQoU6FK5HPFiCMU3cz/view"
+- title: "CV"
+  url: <a href="https://drive.google.com/file/d/1_GUBIF2iuZXrJ9HQoU6FK5HPFiCMU3cz/view" target="_blank">https://drive.google.com/file/d/1_GUBIF2iuZXrJ9HQoU6FK5HPFiCMU3cz/view</a>
     
   # - title: "Guide"
   #   url: /markdown/
