@@ -19,9 +19,9 @@ I am a passionate Ph.D. student in Speech and Audio Processing Lab at Kyoto Univ
 - **Master's Degree in Speech Processing**
   - **Thesis Title**: Domain adaptation and metric learning for speech emotion recognition
   - **University**: Japan Advanced Institute of Science and Technology (JAIST)
-  - **Advisor**: [Prof. Okada Shogo](https://www.jaist.ac.jp/~okada-s/Profile.html)
+  - **Advisor**: [Prof. Okada Shogo](https://www.jaist.ac.jp/~okada-s/Profile.html){:target="_blank"}
   - **University**: Tianjin University
-  - **Advisor**: [Prof. Longbiao Wang](https://cic.tju.edu.cn/faculty/wanglongbiao/wang.html)
+  - **Advisor**: [Prof. Longbiao Wang](https://cic.tju.edu.cn/faculty/wanglongbiao/wang.html){:target="_blank"}
 
 **Contact Me**
 ------
