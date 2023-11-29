@@ -15,7 +15,7 @@ I am a passionate Ph.D. student in Speech and Audio Processing Lab at Kyoto Univ
 - **Ph.D. in Speech and Audio Processing** (Candidate)
   - **University**: Kyoto University
   - **Research Area**: Speech Emotion Recognition
-  - **Advisor**: [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/)
+  - **Advisor**: [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/){:target="_blank"}
 - **Master's Degree in Speech Processing**
   - **Thesis Title**: Domain adaptation and metric learning for speech emotion recognition
   - **University**: Japan Advanced Institute of Science and Technology (JAIST)
