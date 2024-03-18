@@ -17,6 +17,13 @@ Journal
 
 Conference
 ======
+### Speech Emotion Recognition with Multi-level Acoustic and Semantic Information Extraction and Interaction
+- **Authors**: **Y. Gao**, H. Shi, C. Chu, T. Kawahara
+- **Published in**: Proc. INTERSPEECH, 2024 (Under Review)
+
+### Enhancing Two-stage Finetuning for Speech Emotion Recognition Using Adapters
+- **Authors**: **Y. Gao**, H. Shi, C. Chu, T. Kawahara
+- **Published in**: ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech, and Signal Processing
 
 ### Two-stage finetuning of wav2vec 2.0 for speech emotion recognition with asr and gender pretraining
 - **Authors**: **Y. Gao**, C. Chu, T. Kawahara
