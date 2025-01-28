@@ -40,7 +40,7 @@ I am currently a Ph.D. student in Speech and Audio Processing Lab at Kyoto Unive
 ======
 - Chinese (native)
 - English (fluent)
-- Japanese (beginner)
+- Japanese (elementary)
   
 **Contact Me**
 ------
