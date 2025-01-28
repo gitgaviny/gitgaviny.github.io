@@ -9,21 +9,32 @@ redirect_from:
 ---
 
 <div style="text-align: justify;">
-I am a Ph.D. student in Speech and Audio Processing Lab at Kyoto University, working under the guidance of Prof. Tatsuya Kawahara. My academic journey includes joint Master's degree from both Tianjin University and Japan Advanced Institute of Science and Technology. My research primarily focuses on speech emotion recognition and automatic speech recognition, where I strive to combine technical expertise with real-world applications.
+I am currently a Ph.D. student in Speech and Audio Processing Lab at Kyoto University, working under the guidance of Prof. Tatsuya Kawahara. My academic journey includes joint Master's degree from both Tianjin University and Japan Advanced Institute of Science and Technology. My research primarily focuses on speech emotion recognition and automatic speech recognition, where I strive to combine technical expertise with real-world applications.
 </div>
 
 **Education**
 ======
-- **Ph.D. in Speech and Audio Processing** (Candidate)
+- **2022.10 ~ present Ph.D. in Informatics** (Candidate)
   - **University**: Kyoto University
-  - **Research Area**: Speech Emotion Recognition
   - **Advisor**: [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/){:target="_blank"}
-- **Master's Degree in Speech Processing**
-  - **Thesis Title**: Domain adaptation and metric learning for speech emotion recognition
+- **2021.04 ~ 2022.09,M.Phil. in Human Information Science**
+  - **Thesis**: Domain adaptation and metric learning for speech emotion recognition
   - **University**: Japan Advanced Institute of Science and Technology (JAIST)
   - **Advisor**: [Prof. Okada Shogo](https://www.jaist.ac.jp/~okada-s/Profile.html){:target="_blank"}
+- **2019.09 ~ 2021.09,M.Phil. in Computer Science**
   - **University**: Tianjin University
   - **Advisor**: [Prof. Longbiao Wang](https://cic.tju.edu.cn/faculty/wanglongbiao/wang.html){:target="_blank"}
+ 
+**Work Experience**
+======
+- **2024.08 ~ 2024.09, Research Intern** 
+- NTT 
+- **Mentor**: Dr. Atsushi Ando
+
+**Honor**
+======
+- **2022.10 ~ present Fellowships** SPRING, awarded by Japan Science and Technology Agency (JST) 
+- **2021.04 ~ 2022.09 Scholarships** Tianjin University-JAIST Collaborative Educational Program Scholarship, awarded by Japan Advanced Institute of Science and Technology (JAIST)
 
 **Contact Me**
 ------
