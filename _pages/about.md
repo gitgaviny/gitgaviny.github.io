@@ -29,8 +29,8 @@ I am currently a Ph.D. student in Speech and Audio Processing Lab at Kyoto Unive
 **Work Experience**
 ======
 - 2024.08 ~ 2024.09, Research Intern 
-- NTT 
-- Mentor: Dr. Atsushi Ando
+  - NTT 
+  - Mentor: Dr. Atsushi Ando
 
 **Honor**
 ======
