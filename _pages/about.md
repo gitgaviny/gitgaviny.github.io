@@ -17,11 +17,11 @@ I am currently a Ph.D. student in Speech and Audio Processing Lab at Kyoto Unive
 - 2022.10 ~ present, Ph.D. in Informatics
   - Kyoto University
   - Advisor: [Prof. Tatsuya Kawahara](http://sap.ist.i.kyoto-u.ac.jp/members/kawahara/){:target="_blank"}
-- 2021.04 ~ 2022.09, M.Phil. in Human Information Science
+- 2020.10 ~ 2022.09, M.Phil. in Human Information Science
   - Thesis: Domain adaptation and metric learning for speech emotion recognition
   - Japan Advanced Institute of Science and Technology (JAIST)
   - Advisor: [Prof. Okada Shogo](https://www.jaist.ac.jp/~okada-s/Profile.html){:target="_blank"}
-- 2019.09 ~ 2021.09, M.Phil. in Computer Science
+- 2019.09 ~ 2021.06, M.Phil. in Computer Science
   - Tianjin University
   - Advisor: [Prof. Longbiao Wang](https://cic.tju.edu.cn/faculty/wanglongbiao/wang.html){:target="_blank"}
  
