@@ -11,6 +11,10 @@ redirect_from:
 
 Journal
 ======
+### Multi-attribute Learning for Multi-level Emotion Recognition from Speech
+- **Authors**: **Y. Gao**, H. Shi, C. Chu, T. Kawahara
+- **Submitted to**: IEEE Transactions on Affective Computing (under review)
+ 
 ### Adversarial domain generalized transformer for cross-corpus speech emotion recognition
 - **Authors**: **Y. Gao**, L. Wang, J. Liu, J. Dang, S. Okada
 - **Published in**: IEEE Transactions on Affective Computing, 2023
@@ -19,12 +23,20 @@ Conference
 ======
 ### Speech Emotion Recognition with Multi-level Acoustic and Semantic Information Extraction and Interaction
 - **Authors**: **Y. Gao**, H. Shi, C. Chu, T. Kawahara
-- **Published in**: Proc. INTERSPEECH, 2024 (Under Review)
+- **Published in**: Proc. INTERSPEECH, 2024 
 
 ### Enhancing Two-stage Finetuning for Speech Emotion Recognition Using Adapters
 - **Authors**: **Y. Gao**, H. Shi, C. Chu, T. Kawahara
 - **Published in**: ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech, and Signal Processing
 
+### Serialized Speech Information Guidance with Overlapped Encoding Separation for Multi-Speaker Automatic Speech Recognition
+- **Authors**: H. shi, **Y. Gao**, T. Kawahara
+- **Published in**: IEEE-SLT, 2024
+
+### A Study on Multimodal Fusion and Layer Adaptor in Emotion Recognition
+- **Authors**: X, Shi, **Y. Gao**, J. He, J. Mi, X. Li, T. Toda
+- **Published in**: APSIPA ASC, 2024
+  
 ### Two-stage finetuning of wav2vec 2.0 for speech emotion recognition with asr and gender pretraining
 - **Authors**: **Y. Gao**, C. Chu, T. Kawahara
 - **Published in**: Proc. INTERSPEECH, 2023
