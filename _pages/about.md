@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="text-align: justify;">
 I am currently a Ph.D. student in Speech and Audio Processing Lab at Kyoto University, working under the guidance of Prof. Tatsuya Kawahara. My academic journey includes joint Master's degree from both Tianjin University and Japan Advanced Institute of Science and Technology. My research primarily focuses on speech emotion recognition and automatic speech recognition, where I strive to combine technical expertise with real-world applications.
-
+</div>
 
 **Education**
 ======
