@@ -36,6 +36,12 @@ I am currently a Ph.D. student in Speech and Audio Processing Lab at Kyoto Unive
 - 2022.10 ~ present, Fellowships, SPRING, awarded by Japan Science and Technology Agency (JST) 
 - 2021.04 ~ 2022.09, Scholarships, Tianjin University-JAIST Collaborative Educational Program Scholarship, awarded by Japan Advanced Institute of Science and Technology (JAIST)
 
+**Language Skill**
+======
+- Chinese (native)
+- English (fluent)
+- Japanese (beginner)
+  
 **Contact Me**
 ------
 Feel free to reach out for collaborations or questions at: [gaoym97@gmail.com](mailto:gaoym97@gmail.com).
