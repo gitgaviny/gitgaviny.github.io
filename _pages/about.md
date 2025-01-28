@@ -13,6 +13,7 @@ I am currently a Ph.D. student in Speech and Audio Processing Lab at Kyoto Unive
 </div>
 
 <br>
+
 **Education**
 ======
 - 2022.10 ~ present, Ph.D. in Informatics
