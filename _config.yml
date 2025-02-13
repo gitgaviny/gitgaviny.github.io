@@ -46,8 +46,8 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  path                   : # blank (default) uses feed.xml
+# atom_feed:
+  # path                   : # blank (default) uses feed.xml
 
 # SEO Related
 google_site_verification :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuan Gao"
   avatar           : "gao.png"
-  bio              : "PhD candidate in Speech and Audio Processing Lab. (SAP)"
+  bio              : "PhD student in Speech and Audio Processing Lab. (SAP)"
   location         : "Japan"
   employer         : 
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
